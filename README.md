@@ -13,5 +13,6 @@ data_set_with_the_averages.txt -- 0.225 Mb, a 180x68 data frame
 * Then appropriately labels the data set with descriptive activity names.
 * Then create a second, independent tidy data set with the average of each variable for each activity and each subject.
 * Finally write the tidy data to a table using the command write.table(result, "data_set_with_the_averages.txt")
+* Thus the tidy data set is created.
 
 
